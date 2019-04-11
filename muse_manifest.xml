@@ -1,0 +1,44 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rofre0001.githob.io" resolutions="1x" timestamp="1554982152437">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="247686937" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="773d0ced-c651-49f3-9534-1b053b5fc418拷貝.jpg" crc="277128101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u132-4.png" crc="315691840" ref="index"/>
+    <file name="u515-4.png" crc="364365493" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u369.png" crc="89441548" ref="index"/>
+    <file name="u369-r.png" crc="4129611375" ref="index"/>
+    <file name="u369-m.png" crc="4129611375" ref="index"/>
+    <file name="u372.png" crc="4241870562" ref="index"/>
+    <file name="u372-r.png" crc="4155516858" ref="index"/>
+    <file name="u372-m.png" crc="4155516858" ref="index"/>
+    <file name="u375.png" crc="89441548" ref="index"/>
+    <file name="u375-r.png" crc="4129611375" ref="index"/>
+    <file name="u375-m.png" crc="4129611375" ref="index"/>
+    <file name="u192-4.png" crc="291096838" ref="index"/>
+    <file name="u302-4.png" crc="4169210012" ref="index"/>
+    <file name="u320-6.png" crc="4219911310" ref="index"/>
+    <file name="u496-4.png" crc="4188623899" ref="index"/>
+    <file name="u542-4.png" crc="3955652141" ref="index"/>
+    <file name="u492-9.png" crc="3908612980" ref="index"/>
+    <file name="d9cc2016-a17c-4a67-8f40-1ed4b892792a拷貝.jpg" crc="501527570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f6516d1e-27da-408f-962f-e79bb9cf5bcd拷貝.jpg" crc="4177174579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="33104042" seo="true" mt="1554971370323" redirect="true"/>
+</manifest>
