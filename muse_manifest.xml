@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rofre0001.githob.io" resolutions="1x" timestamp="1555520980633">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rofre0001.githob.io" resolutions="1x" timestamp="1555530403339">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3798445955" ref="index"/>
+    <file name="index.css" crc="73645417" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,16 +20,16 @@
     <file name="u132-4.png" crc="315691840" ref="index"/>
     <file name="u515-4.png" crc="364365493" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u369_states.png" crc="101367247" ref="index"/>
-    <file name="u369_states-r.png" crc="491187115" ref="index"/>
-    <file name="u369_states-m.png" crc="491187115" ref="index"/>
-    <file name="u372_states.png" crc="3808893271" ref="index"/>
-    <file name="u372_states-r.png" crc="125439119" ref="index"/>
-    <file name="u372_states-m.png" crc="125439119" ref="index"/>
-    <file name="u375_states.png" crc="522217631" ref="index"/>
-    <file name="u375_states-r.png" crc="406026535" ref="index"/>
-    <file name="u375_states-m.png" crc="406026535" ref="index"/>
-    <file name="u192-4.png" crc="478787835" ref="index"/>
+    <file name="u369_states.png" crc="458908203" ref="index"/>
+    <file name="u369_states-r.png" crc="4029497256" ref="index"/>
+    <file name="u369_states-m.png" crc="4029497256" ref="index"/>
+    <file name="u372_states.png" crc="108451225" ref="index"/>
+    <file name="u372_states-r.png" crc="3971885787" ref="index"/>
+    <file name="u372_states-m.png" crc="3971885787" ref="index"/>
+    <file name="u375_states.png" crc="4010306546" ref="index"/>
+    <file name="u375_states-r.png" crc="422188611" ref="index"/>
+    <file name="u375_states-m.png" crc="422188611" ref="index"/>
+    <file name="u192-4.png" crc="3919940400" ref="index"/>
     <file name="d9cc2016-a17c-4a67-8f40-1ed4b892792a拷貝.jpg" crc="3882555485" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -68,6 +68,23 @@
     </file>
     <file name="u1154-4.png" crc="4086881208" ref="index"/>
     <file name="u1171-6.png" crc="521149417" ref="index"/>
+    <file name="燈泡icon_工作區域 1.png" crc="525418351" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1268-4.png" crc="213842234" ref="index"/>
+    <file name="訊號icon_工作區域 1.png" crc="464360201" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1340-4.png" crc="127482221" ref="index"/>
+    <file name="u1343-4.png" crc="3823513244" ref="index"/>
+    <file name="太陽icon_工作區域 1.png" crc="332841456" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="方向標（上icon_工作區域 1-u1391.png" crc="388802704" ref="index"/>
+    <file name="方向標（上icon_工作區域 1-u1391-r.png" crc="110739984" ref="index"/>
   </folder>
-  <file name="index.html" crc="523577824" seo="true" mt="1555520899140" redirect="true"/>
+  <file name="index.html" crc="367832983" seo="true" mt="1555530371835" redirect="true"/>
 </manifest>
