@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rofre0001.githob.io" resolutions="1x" timestamp="1555577732900">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rofre0001.githob.io" resolutions="1x" timestamp="1558334901667">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="384758091" ref="index"/>
+    <file name="index.css" crc="188254058" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,86 +14,70 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="773d0ced-c651-49f3-9534-1b053b5fc418拷貝.jpg" crc="303330456" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u132-4.png" crc="315691840" ref="index"/>
-    <file name="u515-4.png" crc="364365493" ref="index"/>
-    <file name="u1154-4.png" crc="4086881208" ref="index"/>
+    <file name="u1650-4.png" crc="3784245351" ref="index"/>
+    <file name="u1644-4.png" crc="3945959390" ref="index"/>
+    <file name="u1647-4.png" crc="3945959390" ref="index"/>
+    <file name="u515-4.png" crc="3810300054" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u369_states.png" crc="458908203" ref="index"/>
-    <file name="u369_states-r.png" crc="4029497256" ref="index"/>
-    <file name="u369_states-m.png" crc="4029497256" ref="index"/>
-    <file name="u372_states.png" crc="108451225" ref="index"/>
-    <file name="u372_states-r.png" crc="3971885787" ref="index"/>
-    <file name="u372_states-m.png" crc="3971885787" ref="index"/>
-    <file name="u375_states.png" crc="4010306546" ref="index"/>
-    <file name="u375_states-r.png" crc="422188611" ref="index"/>
-    <file name="u375_states-m.png" crc="422188611" ref="index"/>
-    <file name="燈泡icon_工作區域 1.png" crc="525418351" ref="index">
+    <file name="u369_states.png" crc="134305504" ref="index"/>
+    <file name="u369_states-r.png" crc="4052352978" ref="index"/>
+    <file name="u372_states.png" crc="4108109617" ref="index"/>
+    <file name="u372_states-r.png" crc="100428334" ref="index"/>
+    <file name="u375_states.png" crc="3830289862" ref="index"/>
+    <file name="u375_states-r.png" crc="61073069" ref="index"/>
+    <file name="773d0ced-c651-49f3-9534-1b053b5fc418拷貝拷貝f.jpg" crc="267493259" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u192-4.png" crc="3919940400" ref="index"/>
-    <file name="u1268-4.png" crc="213842234" ref="index"/>
-    <file name="d9cc2016-a17c-4a67-8f40-1ed4b892792a拷貝.jpg" crc="3882555485" ref="index">
+    <file name="773d0ced-c651-49f3-9534-1b053b5fc418拷貝.jpg" crc="4225896669" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u302-4.png" crc="4169210012" ref="index"/>
-    <file name="u320-6.png" crc="4219911310" ref="index"/>
-    <file name="u496-4.png" crc="434010149" ref="index"/>
-    <file name="u947-4.png" crc="398575177" ref="index"/>
+    <file name="u1154-4.png" crc="3997952256" ref="index"/>
+    <file name="u1268-4.png" crc="3962460110" ref="index"/>
+    <file name="u192-4.png" crc="147116644" ref="index"/>
+    <file name="u302-4.png" crc="13569059" ref="index"/>
+    <file name="u320-8.png" crc="3883517494" ref="index"/>
+    <file name="u1863-4.png" crc="4034790462" ref="index"/>
+    <file name="u496-4.png" crc="294262755" ref="index"/>
+    <file name="d9cc2016-a17c-4a67-8f40-1ed4b892792a拷貝.jpg" crc="37867305" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u947-4.png" crc="194801720" ref="index"/>
+    <file name="u1547-4.png" crc="224458123" ref="index"/>
     <file name="雷切.gif" crc="120545667" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u953-4.png" crc="113842661" ref="index"/>
-    <file name="u962-4.png" crc="4182463698" ref="index"/>
-    <file name="訊號icon_工作區域 1.png" crc="464360201" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="固定.gif" crc="284323498" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u965-4.png" crc="4192531749" ref="index"/>
-    <file name="u968-7.png" crc="3765291093" ref="index"/>
-    <file name="u971-4.png" crc="4053343459" ref="index"/>
-    <file name="u980-7.png" crc="4152256925" ref="index"/>
-    <file name="壓克力.gif" crc="4241762188" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="焊接.gif" crc="381000801" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="壓克力.gif" crc="4241762188" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u977-4.png" crc="153287623" ref="index"/>
-    <file name="u986-7.png" crc="3907465046" ref="index"/>
-    <file name="u1547-4.png" crc="224458123" ref="index"/>
-    <file name="u1556-4.png" crc="503588645" ref="index"/>
-    <file name="u1562-4.png" crc="3141567" ref="index"/>
     <file name="u1553-4.png" crc="183646307" ref="index"/>
+    <file name="u1556-4.png" crc="503588645" ref="index"/>
     <file name="u1559-4.png" crc="4097984268" ref="index"/>
-    <file name="u1103-4.png" crc="3988835929" ref="index"/>
-    <file name="9c3586ba-180e-463c-811e-eaa049f3c681拷貝.jpg" crc="484098491" ref="index">
+    <file name="u1562-4.png" crc="3141567" ref="index"/>
+    <file name="u1900-4.png" crc="3957459499" ref="index"/>
+    <file name="u1936-4.png" crc="3869636849" ref="index"/>
+    <file name="u1930-4.png" crc="189215746" ref="index"/>
+    <file name="u1897-6.png" crc="179410296" ref="index"/>
+    <file name="u962-4.png" crc="123918105" ref="index"/>
+    <file name="u968-4.png" crc="3789276481" ref="index"/>
+    <file name="u980-4.png" crc="158869614" ref="index"/>
+    <file name="u986-4.png" crc="4190995211" ref="index"/>
+    <file name="u1103-4.png" crc="4097557126" ref="index"/>
+    <file name="u2155-4.png" crc="326167933" ref="index"/>
+    <file name="f6516d1e-27da-408f-9162f-e79bb9cf5bcd拷貝.jpg" crc="377464030" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u927-7.png" crc="4027242772" ref="index"/>
-    <file name="u930-6.png" crc="292293161" ref="index"/>
-    <file name="u1340-4.png" crc="127482221" ref="index"/>
-    <file name="u1343-4.png" crc="3823513244" ref="index"/>
-    <file name="太陽icon_工作區域 1.png" crc="332841456" ref="index">
+    <file name="f6516d1e-27da-408f-962f-e79bb9cf5bcd.jpg" crc="4103065998" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="f6516d1e-27da-408f-962f-e79bb9cf5bcd.jpg" crc="3899258750" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="方向標（上icon_工作區域 1-u1391.png" crc="388802704" ref="index"/>
-    <file name="方向標（上icon_工作區域 1-u1391-r.png" crc="110739984" ref="index"/>
+    <file name="u927-7.png" crc="3867177411" ref="index"/>
+    <file name="u930-6.png" crc="3944165002" ref="index"/>
     <file name="u1171-6.png" crc="521149417" ref="index"/>
   </folder>
-  <file name="index.html" crc="413071553" seo="true" mt="1555577631504" redirect="true"/>
+  <file name="index.html" crc="3895408685" seo="true" mt="1556969281356" redirect="true"/>
 </manifest>
